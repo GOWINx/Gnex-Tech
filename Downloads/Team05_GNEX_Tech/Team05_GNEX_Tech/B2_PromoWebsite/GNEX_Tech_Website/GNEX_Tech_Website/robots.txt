@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gnextech.netlify.app/sitemap.xml
